@@ -1,0 +1,6 @@
+framework module Pods_PayuObjCSample {
+  umbrella header "Pods-PayuObjCSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
