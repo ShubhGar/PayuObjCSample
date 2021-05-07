@@ -6,6 +6,6 @@ target 'PayuObjCSample' do
   use_frameworks!
 
   # Pods for PayuObjCSample
-pod 'PayUIndia-CheckoutPro', '2.2.0'
+pod 'PayUIndia-CheckoutPro'
 
 end
